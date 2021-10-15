@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jokk-itu
+- 👀 I’m interested in distributed systems
